@@ -81,6 +81,8 @@
 .section-title {
     font-weight: 700;
     font-size: 30px;
+    text-align: center;
+    margin-top: 100px;
 }
 
 .plans-container {
@@ -137,6 +139,29 @@
     border-radius: 5px;
     padding: 10px 25px;
     border-style: none;
+}
+
+/* Thought */
+.thoughts {
+
+    background-color: #f0dfd2;
+    height: 350px;
+}
+
+.thoughts-content {
+
+    display: flex;
+    gap: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+
+
+}
+
+.thoughts-title {
+    font-size: 30px;
+    font-weight: 60;
+
 }
 
 /* Footer */
